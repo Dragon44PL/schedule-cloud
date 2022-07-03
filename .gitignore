@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build/
+/config-server/.gradle/
+/config-server/build/
+/config-server/build/classes/java/main/
+/eureka/.gradle/
+/eureka/build/
+/eureka/build/classes/java/main/

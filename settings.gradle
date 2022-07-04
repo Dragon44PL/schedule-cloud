@@ -1,1 +1,2 @@
 rootProject.name = 'schedule-cloud'
+include 'eureka'
